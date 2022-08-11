@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/im_ayush_mittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_ayush_mittal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aysuh_621" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aysuh_621" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ayush_621" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayush_621" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mittalayush021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mittalayush021" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mittalayush021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mittalayush021" height="30" width="40" /></a>
 </p>

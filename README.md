@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **ayushmittal.com**(ayushmittal.netlify.app)
+- 📫 How to reach me [**ayushmittal.com**](ayushmittal.netlify.app)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pgP82BkTmTYOHHABvF81bAj18O9YiOe3/view?usp=share_link)
 

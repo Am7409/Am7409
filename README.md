@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **mittalayush021@gmail.com**
+- 📫 How to reach me **ayushmittal.com**(ayushmittal.netlify.app)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rE0J2yUt0ocR6wg6te5s13w5DDX8QU20/view?usp=drivesdk](https://drive.google.com/file/d/1rE0J2yUt0ocR6wg6te5s13w5DDX8QU20/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pgP82BkTmTYOHHABvF81bAj18O9YiOe3/view?usp=share_link)
 
 - ⚡ Fun fact **😁**
 
